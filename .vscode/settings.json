@@ -1,0 +1,14 @@
+{
+    "markdown-preview-enhanced.markdownFileExtensions": [
+
+        ".md",
+        ".markdown",
+        ".mdown",
+        ".mkdn",
+        ".mkd",
+        ".rmd",
+        ".qmd"
+    ],
+    "markdown.omitDefaultJsonProperties": false,
+    "markdown.showToolbar": true
+}
